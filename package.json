@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy" : "gh-pages -d "
+  },
+  "author": "vaibhav srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    
+  }
+}
